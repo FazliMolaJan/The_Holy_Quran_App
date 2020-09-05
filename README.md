@@ -5,9 +5,13 @@ The data is fetched using API. So, it is not being stored locally. Information a
 
 <img src="screenShots/banner.png">
 
-### Play Store Link
+## Play Store Link
 
 <a href="https://play.google.com/store/apps/details?id=com.hmz.al_quran&pli=1">The Holy Qur'an App</a>
+
+## Video Demo
+
+<a href="https://www.youtube.com/watch?v=4NPIhmvv3bY&feature=youtu.be">YouTube Video Demo</a>
 
 ## Screen Shots
 
