@@ -5,6 +5,10 @@ The data is fetched using API. So, it is not being stored locally. Information a
 
 <img src="screenShots/banner.png">
 
+## Article
+
+<a href="https://medium.com/@hamza.6.shakeel/journey-from-scratch-till-play-store-the-holy-quran-flutter-app-407a5370448a">The Journey From scratch til Play Store<a?
+
 ## Play Store Link
 
 <a href="https://play.google.com/store/apps/details?id=com.hmz.al_quran&pli=1">The Holy Qur'an App</a>
