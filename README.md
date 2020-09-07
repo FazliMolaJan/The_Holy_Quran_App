@@ -7,7 +7,7 @@ The data is fetched using API. So, it is not being stored locally. Information a
 
 ## Article
 
-<a href="https://medium.com/@hamza.6.shakeel/journey-from-scratch-till-play-store-the-holy-quran-flutter-app-407a5370448a">The Journey From scratch til Play Store<a?
+<a href="https://medium.com/@hamza.6.shakeel/journey-from-scratch-till-play-store-the-holy-quran-flutter-app-407a5370448a">The Journey From scratch til Play Store</a>
 
 ## Play Store Link
 
